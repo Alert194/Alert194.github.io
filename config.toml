@@ -68,12 +68,12 @@ logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
 description = "This is meta description"
-author = "somrat"
+author = "alert"
 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
+preloader = "images/swing.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
