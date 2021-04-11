@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = [] # disable language from here
+disableLanguages = ["fr"] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
@@ -76,26 +76,33 @@ enable = true
 preloader = "images/swing.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-[[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://twitter.com/194_alert"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/Alert194"
 
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+### 
+### [[params.social]]
+### icon = "fab fa-instagram"
+### link = "https://www.instagram.com/somratpro"
+### 
 
+###
+### [[params.social]]
+### icon = "fab fa-facebook-f"
+### link = "https://www.facebook.com/somratpro"
+###
+
+###
+### [[params.social]]
+### icon = "fab fa-linkedin"
+### link = "https://www.linkedin.com/in/somratpro"
+###
 
 ################################### English language #####################################
 [Languages.en]
