@@ -1,7 +1,7 @@
 ---
 title: "japanese test"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item6.jpg"
+image: "images/portfolio/2021-04-17.png"
 tags: ["design","web"]
 description: "This is meta description."
 draft: false
