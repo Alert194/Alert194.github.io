@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/tags/access/</loc>
+    <loc>https://alert194.github.io/tags/access/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/art/</loc>
+    <loc>https://alert194.github.io/tags/art/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.com/categories/"
-                />
-  </url><url>
-    <loc>https://examplesite.com/tags/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/database/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/logo/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/portfolio/project-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/categories/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://alert194.github.io/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://alert194.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://alert194.github.io/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://alert194.github.io/tags/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/categories/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/tags/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/categories/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/tags/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/categories/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/categories/logo/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/blog/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/portfolio/project-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/tags/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://alert194.github.io/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://alert194.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://alert194.github.io/"
                 />
   </url><url>
-    <loc>https://examplesite.com/blog/blog-1/</loc>
+    <loc>https://alert194.github.io/tags/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://alert194.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alert194.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://alert194.github.io/blog/blog-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-2/</loc>
+    <loc>https://alert194.github.io/blog/blog-2/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-3/</loc>
+    <loc>https://alert194.github.io/blog/blog-3/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-4/</loc>
+    <loc>https://alert194.github.io/blog/blog-4/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-5/</loc>
+    <loc>https://alert194.github.io/blog/blog-5/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/blog/blog-6/</loc>
+    <loc>https://alert194.github.io/blog/blog-6/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/web/</loc>
+    <loc>https://alert194.github.io/tags/web/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/funfacts/</loc>
+    <loc>https://alert194.github.io/funfacts/</loc>
   </url><url>
-    <loc>https://examplesite.com/banner/</loc>
+    <loc>https://alert194.github.io/banner/</loc>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://alert194.github.io/about/</loc>
   </url><url>
-    <loc>https://examplesite.com/call-to-action/</loc>
+    <loc>https://alert194.github.io/call-to-action/</loc>
   </url><url>
-    <loc>https://examplesite.com/contact/</loc>
+    <loc>https://alert194.github.io/contact/</loc>
   </url><url>
-    <loc>https://examplesite.com/service/</loc>
+    <loc>https://alert194.github.io/service/</loc>
   </url><url>
-    <loc>https://examplesite.com/testimonial/</loc>
+    <loc>https://alert194.github.io/testimonial/</loc>
   </url>
 </urlset>
