@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sketch on Onepress Example Site</title>
-    <link>https://194alert.github.io/tags/sketch/</link>
+    <link>https://alert194.github.io/tags/sketch/</link>
     <description>Recent content in sketch on Onepress Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2019, Jeremiah Succeed; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://194alert.github.io/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://alert194.github.io/tags/sketch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Is A Simple Blog Post</title>
-      <link>https://194alert.github.io/english/blog/blog-5/</link>
+      <link>https://alert194.github.io/english/blog/blog-5/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://194alert.github.io/english/blog/blog-5/</guid>
+      <guid>https://alert194.github.io/english/blog/blog-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Heading Ulala!</description>
     </item>
