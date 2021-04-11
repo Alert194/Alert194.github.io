@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Englishes on Onepress Example Site</title>
+    <link>https://194alert.github.io/english/</link>
+    <description>Recent content in Englishes on Onepress Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2019, Jeremiah Succeed; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://194alert.github.io/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://194alert.github.io/english/funfacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/funfacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Somrat Sorkar</title>
+      <link>https://194alert.github.io/english/banner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/banner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KNOW MORE &lt;br&gt; ABOUT ME</title>
+      <link>https://194alert.github.io/english/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/about/</guid>
+      <description>It&amp;rsquo;s Somrat, Professional Web Developer. I love to write code, it&amp;rsquo;s my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me&amp;hellip;&amp;hellip;..😊</description>
+    </item>
+    
+    <item>
+      <title>NEED A SERVICE?</title>
+      <link>https://194alert.github.io/english/call-to-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/call-to-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAY HELLO!</title>
+      <link>https://194alert.github.io/english/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERVICES</title>
+      <link>https://194alert.github.io/english/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TESTIMONIALS</title>
+      <link>https://194alert.github.io/english/testimonial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://194alert.github.io/english/testimonial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

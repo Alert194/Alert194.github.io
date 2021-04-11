@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="https://194alert.github.io">
+<meta name="author" content="Jeremiah Succeed">
+
+<meta name="generator" content="Hugo 0.81.0" />
+<title>Getting Started with Hugo</title>
+<link rel="shortcut icon" href="https://194alert.github.io/images/favicon.ico" type="">
+<link rel="stylesheet" href="https://194alert.github.io/css/style.css">
+<link rel="stylesheet" href="https://194alert.github.io/css/highlight.css">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+
+
+<link href="https://194alert.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Onepress Example Site" />
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@https://twitter.com/username">
+  <meta name="twitter:creator" content="@https://twitter.com/username">
+
+
+<meta property="og:title" content="Getting Started with Hugo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://194alert.github.io">
+
+
+  <meta property="og:image" content="https://194alert.github.ioimages/hugo-home.png">
+
+
+
+
+<link rel="canonical" href="https://194alert.github.io/post/hugoisforlovers/">
+
+    </head>
+<body>
+	  <header class="header">
+			<img src="images/logo.png" alt="">
+
+		</header>
+    <nav class="main-nav">
+        <ul>
+    <li class="active"><a href='https://194alert.github.io'>Articles</a></li>
+    <li><a href='https://194alert.github.io/about'>About</a></li>
+    
+        <li><a href="https://github.com/ijsucceed/onepress/blob/master/README.md#subscribe-link" target="blank">Subscribe</a></li>
+    
+</ul>
+
+    </nav>
+    
+    
+    
+    <div id="site-wrapper">
+        <main>
+            
+  <article class="single">
+    <h1>Getting Started with Hugo</h1>
+    <section class="extras">
+        <span class="tags">
+          <small class="time">April 2, 2014</small>
+          
+             , posted under 
+             
+                <a href="https://194alert.github.io/tags/go">go</a>
+             
+                <a href="https://194alert.github.io/tags/golang">golang</a>
+             
+                <a href="https://194alert.github.io/tags/hugo">hugo</a>
+             
+                <a href="https://194alert.github.io/tags/development">development</a>
+             
+          
+        </span>
+    </section>
+    <section class="description">
+      
+    </section>
+    
+    <section class="featuredImage">
+        <img src="images/hugo-home.png" alt="Getting Started with Hugo">
+    </section>
+    
+    <section id="content" class="body">
+        <h2 id="step-1-install-hugo">Step 1. Install Hugo</h2>
+<p>Goto <a href="https://github.com/spf13/hugo/releases">hugo releases</a> and download the
+appropriate version for your os and architecture.</p>
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+<p>More complete instructions are available at <a href="https://194alert.github.io/overview/installing/">installing hugo</a></p>
+<h2 id="step-2-build-the-docs">Step 2. Build the Docs</h2>
+<p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.</p>
+<p>Follow the following steps:</p>
+<ol>
+<li>Clone the <a href="http://github.com/spf13/hugo">hugo repository</a></li>
+<li>Go into the repo</li>
+<li>Run hugo in server mode and build the docs</li>
+<li>Open your browser to http://localhost:1313</li>
+</ol>
+<p>Corresponding pseudo commands:</p>
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
+<h2 id="step-3-change-the-docs-site">Step 3. Change the docs site</h2>
+<p>Stop the Hugo process by hitting ctrl+c.</p>
+<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
+<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&gt; Press ctrl+c to stop
+</code></pre>
+<p>Open your <a href="http://vim.spf13.com">favorite editor</a> and change one of the source
+content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
+<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+<code>docs/content/overview/quickstart.md</code>.</p>
+<p>Change and save this file.. Notice what happened in your terminal.</p>
+<pre><code>&gt; Change detected, rebuilding site
+
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 26 ms
+</code></pre>
+<p>Refresh the browser and observe that the typo is now fixed.</p>
+<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building.. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
+<h2 id="step-4-have-fun">Step 4. Have fun</h2>
+<p>The best way to learn something is to play with it.</p>
+
+    </section> 
+    
+    
+     
+  </article>
+  
+<div class="share-card">
+    <a class="twitter" href="https://twitter.com/intent/tweet?text=https%3a%2f%2f194alert.github.io%2fpost%2fhugoisforlovers%2f - Getting%20Started%20with%20Hugo by @https%3a%2f%2ftwitter.com%2fusername"><i class="fa fa-twitter"></i> Tweet</a>
+
+    <a class="facebook" href="#" onclick="
+        window.open(
+          'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+          'facebook-share-dialog',
+          'width=626,height=436');
+        return false;"><i class="fa fa-facebook"></i> Share
+    </a>
+</div>
+
+
+ 
+  
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = '';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+        </main>
+        
+        <aside class="desktop-only">
+            
+	<div class="widgets">
+      
+  <section itemscope itemtype="https://schema.org/Person" class="widget socials">
+    <h2 class="widget-title">Socials</h2>
+    <ul>
+        
+        
+        <li><a href="https://twitter.com/username"><i class="fa fa-twitter"></i></a></li>
+        
+        
+        
+        <li><a href="https://github.com/username"><i class="fa fa-github"></i></a></li>
+        
+    </ul>
+  </section>
+ 
+  <section class="widget widget-one">
+    
+    <h2 class="widget-title">Widget 2</h2>
+  </section>
+    
+    
+ 
+
+</div>
+
+
+            <footer id="footer">
+    <p class="small">
+      Copyright © 2019, Jeremiah Succeed; all rights reserved.
+    </p>
+</footer>
+        </aside>
+    </div>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://194alert.github.io/js/main.js"></script>
+<script src="https://194alert.github.io/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+</body>
+</html>
